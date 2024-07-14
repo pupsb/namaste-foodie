@@ -1,0 +1,28 @@
+{
+  "name": "namaste-foodies",
+  "version": "1.0.0",
+  "description": "A food delivery app",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pupsb/namaste-foodie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pupsb/namaste-foodie/issues"
+  },
+  "homepage": "https://github.com/pupsb/namaste-foodie#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
